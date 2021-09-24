@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulioCeVa
 - 👀 I’m interested in frontend development and machine learning im a total beginner
 - 🌱 I’m currently learning html, css, javascript, and looking for another technology to learn
-- 💞️ I’m looking to collaborate on mobile apps pages and responsive web design
+- 💞️ I’m looking to collaborate on mobile apps, pages and responsive web design
 - 📫 How to reach me londonvar@gmail.com
 
 <!---
